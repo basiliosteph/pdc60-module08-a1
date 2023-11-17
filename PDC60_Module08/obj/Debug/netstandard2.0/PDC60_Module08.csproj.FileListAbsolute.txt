@@ -1,0 +1,15 @@
+C:\RM_OOP\PDC60_Module08\PDC60_Module08\bin\Debug\netstandard2.0\PDC60_Module08.deps.json
+C:\RM_OOP\PDC60_Module08\PDC60_Module08\bin\Debug\netstandard2.0\PDC60_Module08.dll
+C:\RM_OOP\PDC60_Module08\PDC60_Module08\bin\Debug\netstandard2.0\ref\PDC60_Module08.dll
+C:\RM_OOP\PDC60_Module08\PDC60_Module08\bin\Debug\netstandard2.0\PDC60_Module08.pdb
+C:\RM_OOP\PDC60_Module08\PDC60_Module08\obj\Debug\netstandard2.0\PDC60_Module08.csproj.AssemblyReference.cache
+C:\RM_OOP\PDC60_Module08\PDC60_Module08\obj\Debug\netstandard2.0\PDC60_Module08.GeneratedMSBuildEditorConfig.editorconfig
+C:\RM_OOP\PDC60_Module08\PDC60_Module08\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\RM_OOP\PDC60_Module08\PDC60_Module08\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\RM_OOP\PDC60_Module08\PDC60_Module08\obj\Debug\netstandard2.0\PDC60_Module08.AssemblyInfoInputs.cache
+C:\RM_OOP\PDC60_Module08\PDC60_Module08\obj\Debug\netstandard2.0\PDC60_Module08.AssemblyInfo.cs
+C:\RM_OOP\PDC60_Module08\PDC60_Module08\obj\Debug\netstandard2.0\PDC60_Module08.csproj.CoreCompileInputs.cache
+C:\RM_OOP\PDC60_Module08\PDC60_Module08\obj\Debug\netstandard2.0\XamlC.stamp
+C:\RM_OOP\PDC60_Module08\PDC60_Module08\obj\Debug\netstandard2.0\PDC60_Module08.dll
+C:\RM_OOP\PDC60_Module08\PDC60_Module08\obj\Debug\netstandard2.0\refint\PDC60_Module08.dll
+C:\RM_OOP\PDC60_Module08\PDC60_Module08\obj\Debug\netstandard2.0\PDC60_Module08.pdb
